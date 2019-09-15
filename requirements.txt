@@ -1,0 +1,15 @@
+Cartopy
+Fiona
+folium
+geopandas
+ipyleaflet
+jupyter
+jupyterlab
+keplergl
+matplotlib
+numpy
+pandas
+Rtree
+scipy
+seaborn
+Shapely
