@@ -6,8 +6,6 @@ Rtree
 seaborn
 Shapely
 Fiona
-Proj
-Cartopy
 folium
 geopandas
 ipyleaflet
