@@ -1,3 +1,4 @@
+descartes
 numpy
 pandas
 scipy
