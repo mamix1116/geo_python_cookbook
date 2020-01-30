@@ -1,5 +1,7 @@
 # Geo+Python
-2019 PyCon JP のポスターセッション`Geo+Python` で発表した内容をベースに、アップデートしています。
+PyCon JP 2019 のポスターセッション`Geo+Python` で発表した内容をベースに、アップデートしています。
+
+リンク：[Geo+Python](https://hackmd.io/@mamix1116/SkaGYlYLr)
 
 ## 内容
 
